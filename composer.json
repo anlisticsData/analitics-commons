@@ -1,0 +1,20 @@
+{
+    "name": "root/analitics-commons",
+    "description": "Classe para tratar requests e uploads de arquivos",
+    "license": "GPL-3.0-or-later",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Edilson Claudino da Silva",
+            "email": "edilsonclaudinosilva@gmai.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AnaliticsCommons\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
