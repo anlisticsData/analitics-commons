@@ -3,6 +3,7 @@
     "description": "Classe para tratar requests e uploads de arquivos",
     "license": "GPL-3.0-or-later",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Edilson Claudino da Silva",
