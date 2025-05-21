@@ -1,5 +1,5 @@
 {
-    "name": "root/analitics-commons",
+    "name": "analitics/analitics-commons",
     "description": "Classe para tratar requests e uploads de arquivos",
     "license": "GPL-3.0-or-later",
     "type": "library",
